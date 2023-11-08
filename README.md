@@ -1,5 +1,32 @@
-# Hi there, I am Alexis!
+<h1 align="center">Hi there, I am Alexis! :wave:</h1>
+<h3 align="center">A Ph.D. student in PL at Rice University :office: :us:</h3>
 
-I am a Ph.D. student in the Computer Science department at Rice University. I am working on regular expressions algorithms for various hardwares (CPU, GPU, ASIC). I am also a Rust aficionado.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=alexis51151&label=Profile%20views&color=0e75b6&style=flat"
+     alt="Alexis51151"/>
+</p>
 
-[![Alexis' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis51151)](https://github.com/anuraghazra/github-readme-stats)
+- :computer: I’m currently working on algorithms to accelerate regex matching over GPU and ASIC hardwares
+
+- 📫 How to reach me: **alexis.f.leglaunec@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="www.linkedin.com/in/alexis-leglaunec" target="blank"><img align="center"
+      src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg"
+      alt="Alexis Le Glaunec" height="30" width="40" /></a>
+</p>
+<br>
+
+<p align="center">
+<img align="center"
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis51151&show_icons=true&locale=en&layout=compact"
+     alt="Alexis Le Glaunec"/>
+</p>
+
+<p align="center">
+<img align="center"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=alexis51151&"
+     alt="Alexis Le Glaunec"/>
+</p>
