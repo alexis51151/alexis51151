@@ -6,7 +6,7 @@
      alt="Alexis51151"/>
 </p>
 
-- :computer: I’m currently working on algorithms to accelerate regex matching over GPU and ASIC hardwares
+- :computer: I’m currently working on accelerating unstructured and semi-structured (JSON) data processing over GPU and ASIC hardwares.
 
 - 📫 How to reach me: **alexis.f.leglaunec@gmail.com**
 
