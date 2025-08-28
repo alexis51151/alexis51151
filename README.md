@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I am Alexis! :wave:</h1>
-<h3 align="center">A Ph.D. student in PL at Rice University :office: :us:</h3>
+<h3 align="center">Ph.D. student in PL at Rice University :office: :us:</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=alexis51151&label=Profile%20views&color=0e75b6&style=flat"
